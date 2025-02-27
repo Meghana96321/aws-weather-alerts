@@ -1,0 +1,8 @@
+# Ignore AWS credentials & sensitive files
+.env
+aws_credentials.txt
+
+# Ignore system files
+__pycache__/
+.DS_Store
+.vscode/
